@@ -2,8 +2,6 @@
 
 General-purpose RAG starter built with Next.js, LangChain, OpenAI, and Pinecone.
 
-The sample dataset in `data/ticketing_mock_reports.json` is synthetic demo data for public use.
-
 ## Quick Start
 
 1. Install dependencies:
