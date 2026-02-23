@@ -1,0 +1,36 @@
+{
+  "name": "pinecone-rag-template",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@langchain/core": "^1.0.2",
+    "@langchain/openai": "^1.0.0",
+    "@pinecone-database/pinecone": "^4.0.0",
+    "@types/react-datepicker": "^7.0.0",
+    "langchain": "^1.0.2",
+    "next": "16.0.1",
+    "openai": "^4.68.0",
+    "react": "19.2.0",
+    "react-datepicker": "^8.8.0",
+    "react-dom": "19.2.0",
+    "react-json-view": "^1.21.3",
+    "react-markdown": "^10.1.0",
+    "zod": "^4.1.12"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^24.9.2",
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.0.1",
+    "tailwindcss": "^4",
+    "typescript": "^5.9.3"
+  }
+}

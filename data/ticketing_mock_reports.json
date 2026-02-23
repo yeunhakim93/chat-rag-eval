@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "customer": "Northwind Health",
+    "date": "2025-11-26T09:15:00Z",
+    "assignedTo": "Ava Patel",
+    "priority": "P1",
+    "text": "Bug: SSO login intermittently returns HTTP 500 for admin users. Scope: authentication."
+  },
+  {
+    "id": 2,
+    "customer": "Acorn Logistics",
+    "date": "2025-11-28T13:22:00Z",
+    "assignedTo": "Noah Kim",
+    "priority": "P2",
+    "text": "Feature request: Bulk close tickets from list view with confirmation modal."
+  },
+  {
+    "id": 3,
+    "customer": "Bluefin Retail",
+    "date": "2025-11-30T17:41:00Z",
+    "assignedTo": "Mia Chen",
+    "priority": "P2",
+    "text": "Bug: CSV export omits tags column in analytics report."
+  },
+  {
+    "id": 4,
+    "customer": "Summit Bank",
+    "date": "2025-12-02T08:07:00Z",
+    "assignedTo": "Liam Garcia",
+    "priority": "P1",
+    "text": "Incident: Ticket search latency spiked above 2 seconds for 18 minutes."
+  },
+  {
+    "id": 5,
+    "customer": "Atlas Manufacturing",
+    "date": "2025-12-03T10:55:00Z",
+    "assignedTo": "Emma Davis",
+    "priority": "P1",
+    "text": "Bug: iOS app crashes when attaching images larger than 10MB."
+  },
+  {
+    "id": 6,
+    "customer": "Cedar Schools",
+    "date": "2025-12-05T14:13:00Z",
+    "assignedTo": "Ethan Nguyen",
+    "priority": "P3",
+    "text": "Feature request: SLA countdown badge on ticket cards."
+  },
+  {
+    "id": 7,
+    "customer": "Northwind Health",
+    "date": "2025-12-07T11:36:00Z",
+    "assignedTo": "Sophia Lee",
+    "priority": "P3",
+    "text": "Bug: Rich text editor strips bullet lists after autosave."
+  },
+  {
+    "id": 8,
+    "customer": "Acorn Logistics",
+    "date": "2025-12-10T16:02:00Z",
+    "assignedTo": "Lucas Brown",
+    "priority": "P2",
+    "text": "Support: Zendesk webhook retries fail due to signature mismatch."
+  },
+  {
+    "id": 9,
+    "customer": "Bluefin Retail",
+    "date": "2025-12-13T09:49:00Z",
+    "assignedTo": "Olivia Martin",
+    "priority": "P2",
+    "text": "Bug: Priority-change notification emails are duplicated."
+  },
+  {
+    "id": 10,
+    "customer": "Summit Bank",
+    "date": "2025-12-15T18:20:00Z",
+    "assignedTo": "Mason Wilson",
+    "priority": "P3",
+    "text": "Feature request: Reusable ticket templates for onboarding workflows."
+  },
+  {
+    "id": 11,
+    "customer": "Atlas Manufacturing",
+    "date": "2025-12-18T07:45:00Z",
+    "assignedTo": "Ava Patel",
+    "priority": "P1",
+    "text": "Bug: Password reset links expire immediately for some users."
+  },
+  {
+    "id": 12,
+    "customer": "Cedar Schools",
+    "date": "2025-12-20T12:11:00Z",
+    "assignedTo": "Noah Kim",
+    "priority": "P2",
+    "text": "Support: Jira sync created duplicate issues after connector migration."
+  },
+  {
+    "id": 13,
+    "customer": "Northwind Health",
+    "date": "2025-12-22T15:58:00Z",
+    "assignedTo": "Mia Chen",
+    "priority": "P2",
+    "text": "Bug: Kanban drag-and-drop fails on large boards in Firefox."
+  },
+  {
+    "id": 14,
+    "customer": "Acorn Logistics",
+    "date": "2025-12-27T10:02:00Z",
+    "assignedTo": "Liam Garcia",
+    "priority": "P3",
+    "text": "Feature request: AI draft suggestions for support replies."
+  },
+  {
+    "id": 15,
+    "customer": "Bluefin Retail",
+    "date": "2025-12-30T13:39:00Z",
+    "assignedTo": "Emma Davis",
+    "priority": "P4",
+    "text": "Bug: Exact-match search using quotes returns partial results."
+  },
+  {
+    "id": 16,
+    "customer": "Summit Bank",
+    "date": "2026-01-03T09:27:00Z",
+    "assignedTo": "Ethan Nguyen",
+    "priority": "P1",
+    "text": "Incident: Queue backlog delayed ticket status updates by up to 20 minutes."
+  },
+  {
+    "id": 17,
+    "customer": "Atlas Manufacturing",
+    "date": "2026-01-06T11:04:00Z",
+    "assignedTo": "Sophia Lee",
+    "priority": "P3",
+    "text": "Feature request: Saved filter presets per user in ticket explorer."
+  },
+  {
+    "id": 18,
+    "customer": "Cedar Schools",
+    "date": "2026-01-09T16:44:00Z",
+    "assignedTo": "Lucas Brown",
+    "priority": "P1",
+    "text": "Bug: Attachment malware scan remains pending for large PDF files."
+  },
+  {
+    "id": 19,
+    "customer": "Northwind Health",
+    "date": "2026-01-12T08:53:00Z",
+    "assignedTo": "Olivia Martin",
+    "priority": "P2",
+    "text": "Support: SAML metadata rotation caused login failures for enterprise tenants."
+  },
+  {
+    "id": 20,
+    "customer": "Acorn Logistics",
+    "date": "2026-01-15T14:31:00Z",
+    "assignedTo": "Mason Wilson",
+    "priority": "P3",
+    "text": "Feature request: Auto-routing by detected language in incoming emails."
+  },
+  {
+    "id": 21,
+    "customer": "Bluefin Retail",
+    "date": "2026-01-18T10:21:00Z",
+    "assignedTo": "Ava Patel",
+    "priority": "P1",
+    "text": "Bug: SLA breach warning appears 90 minutes late for P1 tickets."
+  },
+  {
+    "id": 22,
+    "customer": "Summit Bank",
+    "date": "2026-01-21T12:47:00Z",
+    "assignedTo": "Noah Kim",
+    "priority": "P2",
+    "text": "Support: API token permissions apply only after re-login."
+  },
+  {
+    "id": 23,
+    "customer": "Atlas Manufacturing",
+    "date": "2026-01-24T17:10:00Z",
+    "assignedTo": "Mia Chen",
+    "priority": "P3",
+    "text": "Feature request: Default templates per customer for bug, feature, and incident tickets."
+  },
+  {
+    "id": 24,
+    "customer": "Cedar Schools",
+    "date": "2026-01-27T09:41:00Z",
+    "assignedTo": "Liam Garcia",
+    "priority": "P4",
+    "text": "Bug: Dark mode resets to light mode after page refresh."
+  },
+  {
+    "id": 25,
+    "customer": "Northwind Health",
+    "date": "2026-01-30T15:05:00Z",
+    "assignedTo": "Emma Davis",
+    "priority": "P2",
+    "text": "Incident: Email ingestion delay created tickets 10-15 minutes late."
+  },
+  {
+    "id": 26,
+    "customer": "Acorn Logistics",
+    "date": "2026-02-02T10:59:00Z",
+    "assignedTo": "Ethan Nguyen",
+    "priority": "P3",
+    "text": "Feature request: Timeline diff for edited ticket descriptions."
+  },
+  {
+    "id": 27,
+    "customer": "Bluefin Retail",
+    "date": "2026-02-05T13:14:00Z",
+    "assignedTo": "Sophia Lee",
+    "priority": "P2",
+    "text": "Bug: Mention notifications fail when usernames include hyphens."
+  },
+  {
+    "id": 28,
+    "customer": "Summit Bank",
+    "date": "2026-02-08T08:33:00Z",
+    "assignedTo": "Lucas Brown",
+    "priority": "P2",
+    "text": "Support: OAuth refresh token expired unexpectedly for Salesforce connector."
+  },
+  {
+    "id": 29,
+    "customer": "Atlas Manufacturing",
+    "date": "2026-02-11T11:42:00Z",
+    "assignedTo": "Olivia Martin",
+    "priority": "P4",
+    "text": "Feature request: Keyboard shortcut Ctrl+K for global ticket search."
+  },
+  {
+    "id": 30,
+    "customer": "Cedar Schools",
+    "date": "2026-02-14T16:18:00Z",
+    "assignedTo": "Mason Wilson",
+    "priority": "P2",
+    "text": "Bug: Pagination resets to page 1 after inline edit in ticket table."
+  },
+  {
+    "id": 31,
+    "customer": "Northwind Health",
+    "date": "2026-02-16T09:05:00Z",
+    "assignedTo": "Ava Patel",
+    "priority": "P1",
+    "text": "Support: Customer portal attachments blocked by CSP policy in Firefox."
+  },
+  {
+    "id": 32,
+    "customer": "Acorn Logistics",
+    "date": "2026-02-17T14:40:00Z",
+    "assignedTo": "Noah Kim",
+    "priority": "P3",
+    "text": "Feature request: Story-point estimation field for support backlog planning."
+  },
+  {
+    "id": 33,
+    "customer": "Bluefin Retail",
+    "date": "2026-02-19T10:16:00Z",
+    "assignedTo": "Mia Chen",
+    "priority": "P1",
+    "text": "Bug: Duplicate comments posted after reconnect from offline mode."
+  },
+  {
+    "id": 34,
+    "customer": "Summit Bank",
+    "date": "2026-02-20T12:58:00Z",
+    "assignedTo": "Liam Garcia",
+    "priority": "P2",
+    "text": "Support: Audit export misses actor IDs for bulk-close operations."
+  },
+  {
+    "id": 35,
+    "customer": "Atlas Manufacturing",
+    "date": "2026-02-21T15:33:00Z",
+    "assignedTo": "Emma Davis",
+    "priority": "P3",
+    "text": "Feature request: Configurable reminder cadence for stale tickets."
+  },
+  {
+    "id": 36,
+    "customer": "Cedar Schools",
+    "date": "2026-02-22T11:51:00Z",
+    "assignedTo": "Ethan Nguyen",
+    "priority": "P1",
+    "text": "Bug: Reply-by-email creates duplicate tickets instead of threading."
+  }
+]

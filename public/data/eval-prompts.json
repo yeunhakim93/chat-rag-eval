@@ -1,0 +1,172 @@
+[
+  {
+    "prompt": "Summarize all P1 tickets for customer Northwind Health.",
+    "filters": {
+      "customer": "Northwind Health",
+      "priority": "P1"
+    }
+  },
+  {
+    "prompt": "What feature requests were filed for customer Acorn Logistics?",
+    "filters": {
+      "customer": "Acorn Logistics"
+    }
+  },
+  {
+    "prompt": "Show tickets assigned to Ava Patel.",
+    "filters": {
+      "assignedTo": "Ava Patel"
+    }
+  },
+  {
+    "prompt": "List P2 issues for customer Bluefin Retail.",
+    "filters": {
+      "customer": "Bluefin Retail",
+      "priority": "P2"
+    }
+  },
+  {
+    "prompt": "What incidents were reported for Summit Bank?",
+    "filters": {
+      "customer": "Summit Bank"
+    }
+  },
+  {
+    "prompt": "Find tickets created between January 15 and January 31, 2026.",
+    "filters": {
+      "dateRange": {
+        "startDate": "2026-01-15T00:00:00.000Z",
+        "endDate": "2026-01-31T23:59:59.999Z"
+      }
+    }
+  },
+  {
+    "prompt": "Which tickets are assigned to Noah Kim with priority P2 or higher urgency?",
+    "filters": {
+      "assignedTo": "Noah Kim",
+      "priority": "P2"
+    }
+  },
+  {
+    "prompt": "Show support tickets for customer Cedar Schools.",
+    "filters": {
+      "customer": "Cedar Schools"
+    }
+  },
+  {
+    "prompt": "Summarize all tickets for Atlas Manufacturing in February 2026.",
+    "filters": {
+      "customer": "Atlas Manufacturing",
+      "dateRange": {
+        "startDate": "2026-02-01T00:00:00.000Z",
+        "endDate": "2026-02-22T23:59:59.999Z"
+      }
+    }
+  },
+  {
+    "prompt": "What high-priority bugs mention login or authentication?",
+    "filters": {
+      "priority": "P1"
+    }
+  },
+  {
+    "prompt": "List tickets assigned to Mia Chen for Bluefin Retail.",
+    "filters": {
+      "customer": "Bluefin Retail",
+      "assignedTo": "Mia Chen"
+    }
+  },
+  {
+    "prompt": "What was filed for Northwind Health during December 2025?",
+    "filters": {
+      "customer": "Northwind Health",
+      "dateRange": {
+        "startDate": "2025-12-01T00:00:00.000Z",
+        "endDate": "2025-12-31T23:59:59.999Z"
+      }
+    }
+  },
+  {
+    "prompt": "Summarize P3 feature requests across all customers.",
+    "filters": {
+      "priority": "P3"
+    }
+  },
+  {
+    "prompt": "Which tickets were assigned to Liam Garcia in the last 30 days?",
+    "filters": {
+      "assignedTo": "Liam Garcia",
+      "dateRange": {
+        "startDate": "2026-01-24T00:00:00.000Z",
+        "endDate": "2026-02-22T23:59:59.999Z"
+      }
+    }
+  },
+  {
+    "prompt": "Find customer-specific tickets for Acorn Logistics between Nov 25 and Dec 31, 2025.",
+    "filters": {
+      "customer": "Acorn Logistics",
+      "dateRange": {
+        "startDate": "2025-11-25T00:00:00.000Z",
+        "endDate": "2025-12-31T23:59:59.999Z"
+      }
+    }
+  },
+  {
+    "prompt": "What tickets are assigned to Ethan Nguyen with priority P1?",
+    "filters": {
+      "assignedTo": "Ethan Nguyen",
+      "priority": "P1"
+    }
+  },
+  {
+    "prompt": "Show all recent tickets related to email ingestion or notifications.",
+    "filters": null
+  },
+  {
+    "prompt": "What did Olivia Martin work on in January and February 2026?",
+    "filters": {
+      "assignedTo": "Olivia Martin",
+      "dateRange": {
+        "startDate": "2026-01-01T00:00:00.000Z",
+        "endDate": "2026-02-22T23:59:59.999Z"
+      }
+    }
+  },
+  {
+    "prompt": "Summarize Summit Bank tickets by priority.",
+    "filters": {
+      "customer": "Summit Bank"
+    }
+  },
+  {
+    "prompt": "Which bugs mention pagination, dark mode, or search?",
+    "filters": null
+  },
+  {
+    "prompt": "List all P4 tickets across customers.",
+    "filters": {
+      "priority": "P4"
+    }
+  },
+  {
+    "prompt": "What tickets did Emma Davis handle for Atlas Manufacturing?",
+    "filters": {
+      "customer": "Atlas Manufacturing",
+      "assignedTo": "Emma Davis"
+    }
+  },
+  {
+    "prompt": "Give me ticket activity from the first half of February 2026.",
+    "filters": {
+      "dateRange": {
+        "startDate": "2026-02-01T00:00:00.000Z",
+        "endDate": "2026-02-15T23:59:59.999Z"
+      }
+    }
+  },
+  {
+    "prompt": "What cross-customer themes are recurring in the last 3 months?",
+    "filters": null
+  }
+]
